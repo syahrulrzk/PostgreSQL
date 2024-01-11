@@ -1,0 +1,2 @@
+# What are Relational Databases?
+Basis data relasional adalah jenis sistem manajemen basis data (DBMS) yang menyimpan dan mengatur data dalam format terstruktur yang disebut tabel. Tabel ini terdiri dari baris, juga dikenal sebagai catatan atau tupel, dan kolom, yang juga disebut atribut atau bidang. Istilah “relasional” berasal dari fakta bahwa tabel-tabel ini dapat dihubungkan satu sama lain melalui kunci dan hubungan.

@@ -21,9 +21,9 @@ PostgreSQL mendukung bahasa pemrograman yang paling penting:
 <pre><i>PostgreSQL pada dasarnya mendukung semua fitur yang didukung sistem manajemen basis data lainnya.</i></pre>
 
 ## Key Features
-- ACID Compliance: PostgreSQL is fully ACID-compliant, ensuring the reliability and data integrity of the database transactions.
-- Extensibility: PostgreSQL allows users to define their data types, operators, functions, and more. This makes it highly customizable and adaptable to various use cases.
-- Concurrency Control: Through its Multi-Version Concurrency Control (MVCC) mechanism, PostgreSQL efficiently handles concurrent queries without lock contention.
-- Full-Text Search: PostgreSQL provides powerful text searching capabilities, including text indexing and various search functions.
-- Spatial Database Capabilities: Through the PostGIS extension, PostgreSQL offers support for geographic objects and spatial querying, making it ideal for GIS applications.
-- High Availability: PostgreSQL has built-in support for replication, allowing for high availability and fault tolerance.
+- ACID Compliance: PostgreSQL sepenuhnya mematuhi ACID, memastikan keandalan dan integritas data transaksi database.
+- Extensibility: PostgreSQL memungkinkan pengguna untuk menentukan tipe data, operator, fungsi, dan lainnya. Hal ini membuatnya sangat dapat dikustomisasi dan beradaptasi dengan berbagai kasus penggunaan.
+- Concurrency Control: Melalui mekanisme Kontrol Konkurensi Multi-Versi (MVCC), PostgreSQL secara efisien menangani kueri bersamaan tanpa pertentangan kunci.
+- Full-Text Search: PostgreSQL menyediakan kemampuan pencarian teks yang kuat, termasuk pengindeksan teks dan berbagai fungsi pencarian.
+- Spatial Database Capabilities: Melalui ekstensi PostGIS, PostgreSQL menawarkan dukungan untuk objek geografis dan kueri spasial, sehingga ideal untuk aplikasi GIS.
+- High Availability: PostgreSQL memiliki dukungan bawaan untuk replikasi, memungkinkan ketersediaan tinggi dan toleransi kesalahan.

@@ -1,7 +1,10 @@
 # Pengenalan PostgreSQL
 
 ## Apa itu PostgreSQL?
-PostgreSQL adalah sistem database sumber terbuka gratis yang mendukung kueri relasional (SQL) dan non-relasional (JSON). PostgreSQL adalah database back-end untuk situs web dinamis dan aplikasi web.
+
+PostgreSQL adalah Sistem Manajemen Basis Data Relasional Objek (ORDBMS) sumber terbuka dan kuat yang terkenal dengan ketahanan, ekstensibilitas, dan kepatuhan terhadap SQL. Ini awalnya dikembangkan di Universitas California, Berkeley, pada tahun 1980an dan sejak itu menjadi salah satu database sumber terbuka paling populer di dunia.
+
+Dalam panduan pengantar ini, kita akan membahas beberapa fitur dan kemampuan utama PostgreSQL, serta kasus penggunaan dan manfaatnya. Panduan ini bertujuan untuk memberikan titik awal bagi pengguna yang ingin mendalami dunia PostgreSQL dan mendapatkan pemahaman dasar tentang sistem.
 
 PostgreSQL mendukung bahasa pemrograman yang paling penting:
 

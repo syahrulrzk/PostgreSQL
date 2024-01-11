@@ -20,10 +20,15 @@ PostgreSQL mendukung bahasa pemrograman yang paling penting:
 
 <pre><i>PostgreSQL pada dasarnya mendukung semua fitur yang didukung sistem manajemen basis data lainnya.</i></pre>
 
-## Key Features
+## Fitur Utama
 - ACID Compliance: PostgreSQL sepenuhnya mematuhi ACID, memastikan keandalan dan integritas data transaksi database.
 - Extensibility: PostgreSQL memungkinkan pengguna untuk menentukan tipe data, operator, fungsi, dan lainnya. Hal ini membuatnya sangat dapat dikustomisasi dan beradaptasi dengan berbagai kasus penggunaan.
 - Concurrency Control: Melalui mekanisme Kontrol Konkurensi Multi-Versi (MVCC), PostgreSQL secara efisien menangani kueri bersamaan tanpa pertentangan kunci.
 - Full-Text Search: PostgreSQL menyediakan kemampuan pencarian teks yang kuat, termasuk pengindeksan teks dan berbagai fungsi pencarian.
 - Spatial Database Capabilities: Melalui ekstensi PostGIS, PostgreSQL menawarkan dukungan untuk objek geografis dan kueri spasial, sehingga ideal untuk aplikasi GIS.
 - High Availability: PostgreSQL memiliki dukungan bawaan untuk replikasi, memungkinkan ketersediaan tinggi dan toleransi kesalahan.
+
+## Manfaat PostgreSQL
+- Salah satu manfaat utama PostgreSQL adalah pendekatannya yang bersumber terbuka dan berbasis komunitas, yang berarti bahwa PostgreSQL gratis untuk digunakan dan terus dikerjakan serta ditingkatkan oleh sekelompok pengembang yang berdedikasi.
+- Ini sangat terukur, sehingga cocok untuk proyek skala kecil dan aplikasi perusahaan skala besar.
+- Ini tidak bergantung pada platform, yang berarti dapat berjalan di berbagai sistem operasi seperti Windows, Linux, dan macOS.

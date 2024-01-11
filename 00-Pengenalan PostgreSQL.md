@@ -16,3 +16,8 @@ PostgreSQL mendukung bahasa pemrograman yang paling penting:
 - Tcl
 
 <pre><i>PostgreSQL pada dasarnya mendukung semua fitur yang didukung sistem manajemen basis data lainnya.</i></pre>
+
+## Sejarah PostgreSQL
+PostgreSQL ditemukan di Departemen Ilmu Komputer Berkeley, Universitas California. Ini dimulai sebagai sebuah proyek pada tahun 1986 dengan tujuan menciptakan sistem database dengan fitur minimal yang diperlukan untuk mendukung berbagai tipe data.
+
+Pada awalnya PostgreSQL berjalan di platform UNIX, namun kini bisa berjalan di berbagai platform, termasuk Windows dan MacOS.

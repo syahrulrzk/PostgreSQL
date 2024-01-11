@@ -32,3 +32,15 @@ PostgreSQL mendukung bahasa pemrograman yang paling penting:
 - Salah satu manfaat utama PostgreSQL adalah pendekatannya yang bersumber terbuka dan berbasis komunitas, yang berarti bahwa PostgreSQL gratis untuk digunakan dan terus dikerjakan serta ditingkatkan oleh sekelompok pengembang yang berdedikasi.
 - Ini sangat terukur, sehingga cocok untuk proyek skala kecil dan aplikasi perusahaan skala besar.
 - Ini tidak bergantung pada platform, yang berarti dapat berjalan di berbagai sistem operasi seperti Windows, Linux, dan macOS.
+
+## Kasus Penggunaan
+PostgreSQL dapat digunakan untuk berbagai macam aplikasi, berkat keserbagunaan dan ekstensibilitasnya. Beberapa kasus penggunaan umum meliputi:
+
+- Aplikasi web
+- Sistem Informasi Geografis (GIS)
+- Pergudangan data dan analitik
+- Sistem keuangan dan perbankan
+- Sistem manajemen konten (CMS)
+- Sistem Perencanaan Sumber Daya Perusahaan (ERP).
+
+Dalam panduan selanjutnya, kita akan mempelajari lebih dalam tentang instalasi, konfigurasi, penggunaan, dan optimalisasi PostgreSQL. Kami juga akan menjelajahi berbagai alat, ekstensi, dan praktik terbaik PostgreSQL untuk membantu Anda memanfaatkan sepenuhnya kekuatan sistem database yang tangguh ini.

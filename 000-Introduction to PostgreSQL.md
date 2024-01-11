@@ -20,7 +20,10 @@ PostgreSQL mendukung bahasa pemrograman yang paling penting:
 
 <pre><i>PostgreSQL pada dasarnya mendukung semua fitur yang didukung sistem manajemen basis data lainnya.</i></pre>
 
-## Sejarah PostgreSQL
-PostgreSQL ditemukan di Departemen Ilmu Komputer Berkeley, Universitas California. Ini dimulai sebagai sebuah proyek pada tahun 1986 dengan tujuan menciptakan sistem database dengan fitur minimal yang diperlukan untuk mendukung berbagai tipe data.
-
-Pada awalnya PostgreSQL berjalan di platform UNIX, namun kini bisa berjalan di berbagai platform, termasuk Windows dan MacOS.
+## Key Features
+- ACID Compliance: PostgreSQL is fully ACID-compliant, ensuring the reliability and data integrity of the database transactions.
+- Extensibility: PostgreSQL allows users to define their data types, operators, functions, and more. This makes it highly customizable and adaptable to various use cases.
+- Concurrency Control: Through its Multi-Version Concurrency Control (MVCC) mechanism, PostgreSQL efficiently handles concurrent queries without lock contention.
+- Full-Text Search: PostgreSQL provides powerful text searching capabilities, including text indexing and various search functions.
+- Spatial Database Capabilities: Through the PostGIS extension, PostgreSQL offers support for geographic objects and spatial querying, making it ideal for GIS applications.
+- High Availability: PostgreSQL has built-in support for replication, allowing for high availability and fault tolerance.

@@ -24,9 +24,11 @@ Basis data relasional menawarkan beberapa keunggulan dalam hal efisiensi, fleksi
 
 | Keuntungan | Description |
 | --- | :--- |
-| Foreign Key | Organisasi database relasional berbasis tabel membuatnya cocok untuk menangani data terstruktur, yang memiliki struktur konsisten dan dapat dengan mudah dipetakan ke kolom dan baris tabel.|
-| Foreign Key | Basis data relasional menggunakan kunci primer dan asing untuk menjaga hubungan yang konsisten antara data terkait, mengurangi kemungkinan inkonsistensi dan redundansi data.|
-| Foreign Key | Basis data relasional dapat menangani data terstruktur dalam jumlah besar dan dapat diskalakan untuk mengakomodasi kebutuhan data yang terus bertambah.|
-| Foreign Key | SQL (Bahasa Kueri Terstruktur) digunakan untuk membuat kueri, memperbarui, dan mengelola basis data relasional, menyediakan cara yang ampuh dan terstandarisasi untuk mengakses dan memanipulasi data.|
+| Structured Data | Organisasi database relasional berbasis tabel membuatnya cocok untuk menangani data terstruktur, yang memiliki struktur konsisten dan dapat dengan mudah dipetakan ke kolom dan baris tabel.|
+| Data Integrity | Basis data relasional menggunakan kunci primer dan asing untuk menjaga hubungan yang konsisten antara data terkait, mengurangi kemungkinan inkonsistensi dan redundansi data.|
+| Scalability | Basis data relasional dapat menangani data terstruktur dalam jumlah besar dan dapat diskalakan untuk mengakomodasi kebutuhan data yang terus bertambah.|
+| Querying | SQL (Bahasa Kueri Terstruktur) digunakan untuk membuat kueri, memperbarui, dan mengelola basis data relasional, menyediakan cara yang ampuh dan terstandarisasi untuk mengakses dan memanipulasi data.|
+
+Singkatnya, database relasional adalah alat yang ampuh dan serbaguna untuk menyimpan dan mengelola data terstruktur. Kemampuannya untuk mewakili hubungan antar data dan memastikan integritas data menjadikannya tulang punggung banyak aplikasi dan layanan.
 
 

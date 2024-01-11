@@ -9,4 +9,6 @@ Basis data relasional adalah jenis sistem manajemen basis data (DBMS) yang menyi
 | Colum | Kolom adalah bidang data dalam tabel, yang mewakili atribut tertentu dari data. Kolom memiliki nama unik dan tipe data tertentu. |
 | Primary Key | Kunci utama adalah kolom (atau sekumpulan kolom) dalam tabel yang secara unik mengidentifikasi setiap baris. Tidak ada dua baris yang memiliki nilai kunci utama yang sama. |
 | Foreign Key | Kunci asing adalah kolom (atau sekumpulan kolom) dalam tabel yang mengacu pada kunci utama tabel lain. Ini digunakan untuk membangun hubungan antar tabel.
- |
+
+## Relationships
+Salah satu keuntungan utama dari database relasional adalah kemampuannya untuk merepresentasikan hubungan antar tabel. Hubungan ini bisa berupa hubungan satu-ke-satu, satu-ke-banyak, atau banyak-ke-banyak. Mereka memungkinkan kueri dan manipulasi data terkait secara efisien di beberapa tabel.

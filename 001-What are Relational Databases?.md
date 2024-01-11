@@ -12,3 +12,10 @@ Basis data relasional adalah jenis sistem manajemen basis data (DBMS) yang menyi
 
 ## Relationships
 Salah satu keuntungan utama dari database relasional adalah kemampuannya untuk merepresentasikan hubungan antar tabel. Hubungan ini bisa berupa hubungan satu-ke-satu, satu-ke-banyak, atau banyak-ke-banyak. Mereka memungkinkan kueri dan manipulasi data terkait secara efisien di beberapa tabel.
+
+| Relationships | Description |
+| --- | :--- |
+| One-to-One | Ini adalah hubungan di mana sebuah baris dalam satu tabel memiliki satu baris yang bersesuaian di tabel lain. Misalnya, seseorang dapat memiliki satu paspor, dan satu paspor hanya dapat dimiliki oleh satu orang. |
+| One-to-Many | Ini adalah hubungan di mana satu baris dalam satu tabel dapat memiliki beberapa baris yang bersesuaian di tabel lain. Misalnya, seorang pelanggan dapat memiliki beberapa pesanan, namun satu pesanan hanya dapat dimiliki oleh satu pelanggan. |
+| Many-to-Many | Ini adalah hubungan di mana beberapa baris dalam satu tabel dapat memiliki beberapa baris yang bersesuaian di tabel lain. Untuk merepresentasikan hubungan banyak ke banyak, diperlukan tabel ketiga yang disebut tabel persimpangan atau tabel asosiatif. Misalnya, seorang siswa dapat mendaftar di beberapa kursus, dan suatu kursus dapat memiliki banyak siswa yang terdaftar. |
+

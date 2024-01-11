@@ -14,3 +14,5 @@ PostgreSQL mendukung bahasa pemrograman yang paling penting:
 - Ruby
 - Perl
 - Tcl
+
+<pre><i>PostgreSQL pada dasarnya mendukung semua fitur yang didukung sistem manajemen basis data lainnya.</i></pre>

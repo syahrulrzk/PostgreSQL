@@ -7,3 +7,10 @@ Basis data relasional adalah jenis sistem manajemen basis data (DBMS) yang menyi
 - Column: Kolom adalah bidang data dalam tabel, yang mewakili atribut tertentu dari data. Kolom memiliki nama unik dan tipe data tertentu.
 - Primary Key: Kunci utama adalah kolom (atau sekumpulan kolom) dalam tabel yang secara unik mengidentifikasi setiap baris. Tidak ada dua baris yang memiliki nilai kunci utama yang sama.
 - Foreign Key: Kunci asing adalah kolom (atau sekumpulan kolom) dalam tabel yang mengacu pada kunci utama tabel lain. Ini digunakan untuk membangun hubungan antar tabel.
+
+| Konsep | Description |
+| --- | :--- |
+| Table | Tabel adalah kumpulan data yang disusun dalam baris dan kolom. Setiap tabel memiliki nama unik dan mewakili objek atau aktivitas tertentu dalam database. |
+| Table | Tabel adalah kumpulan data yang disusun dalam baris dan kolom. Setiap tabel memiliki nama unik dan mewakili objek atau aktivitas tertentu dalam database. |
+| Table | Tabel adalah kumpulan data yang disusun dalam baris dan kolom. Setiap tabel memiliki nama unik dan mewakili objek atau aktivitas tertentu dalam database. |
+| Table | Tabel adalah kumpulan data yang disusun dalam baris dan kolom. Setiap tabel memiliki nama unik dan mewakili objek atau aktivitas tertentu dalam database. |
